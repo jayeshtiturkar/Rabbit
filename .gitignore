@@ -1,0 +1,12 @@
+# Logs
+logs
+*.logs
+
+# Node Moduls
+Backend/node_modules/
+Frontend/node_modules/
+
+
+# Enviornmental Veriable
+Backend/.env
+Frontend/.env
