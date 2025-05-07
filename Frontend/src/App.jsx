@@ -7,7 +7,6 @@ import Login from "./pages/Login";
 import Register from "./pages/Register"
 import Profile from "./pages/Profile";
 import Collections from "./pages/Collections";
-import ProductDetails from "./componants/Product/productDetails";
 import Checkout from "./componants/Cart/Checkout";
 import OrderConfirmation from "./componants/Cart/OrderConfirmation";
 import OrderDetails from "./componants/Product/OrderDetails";
@@ -20,6 +19,7 @@ import EditProduct from "./componants/Admin/EditProduct";
 import ManageOrders from "./componants/Admin/ManageOrders";
 import ProtectedRoute from "./componants/Comman/ProtectedRoute";
 import AdminNewProducts from "./componants/Admin/AdminNewProducts";
+import ProductDetails from "./componants/Product/ProductDetails";
 
 
 const App = () => {
