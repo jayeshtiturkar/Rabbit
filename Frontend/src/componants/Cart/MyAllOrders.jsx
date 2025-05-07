@@ -1,6 +1,5 @@
 import React from 'react'
 import MyOrders from '../Product/MyOrders'
-import { useSelector } from 'react-redux'
 
 const MyAllOrders = () => {
   return (

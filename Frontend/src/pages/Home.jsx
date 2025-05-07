@@ -2,7 +2,7 @@ import React, { useState ,useEffect} from "react";
 import Hero from "../componants/Layout/Hero";
 import GenderCollectionSection from "../componants/Product/GenderCollectionSection";
 import NewArival from "../componants/Product/NewArival";
-import ProductDetails from "../componants/Product/productDetails";
+import ProductDetails from "../componants/Product/ProductDetails";
 import ProductGrid from "../componants/Product/ProductGrid";
 import FeaturedCollections from "../componants/Product/FeaturedCollections";
 import Features from "../componants/Product/Features";
