@@ -66,7 +66,7 @@ const Login = () => {
                 className="my-2 border rounded-md focus:border-blue-400 outline-none p-2 text-sm"
               />
               <button type="submit" className="bg-black text-white rounded-md mt-2 p-2">
-                {loading  ? "Loading..." :"Sign In"}
+                {loading  ? "Loading..." : "Sign In"}
               </button>
             </form>
             <h4 className="text-sm">
